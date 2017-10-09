@@ -15,6 +15,6 @@ $ python twitter_get_user_timeline.py djangoproject
 
 
 
-*Virtualenv with python3.5 and tweepy 3.5
+*Virtualenv with python3.5 ,tweepy 3.5 ,matplot and ntkl
 *https://apps.twitter.com/
  
